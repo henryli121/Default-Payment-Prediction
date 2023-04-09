@@ -9,7 +9,7 @@ Developed a predictive model for whether an account will default next month, giv
     <h1>Our Client's Dataset</h1>
     <p>Our client is a credit card company. They have brought us a dataset that includes some demographics and recent financial data, over the past 6 months, for a sample of 30,000 of their account holders. This data is at the credit account level; in other words, there is one row for each account. Rows are labeled by whether, in the next month after the 6-month historical data period, an account owner has defaulted, or in other words, failed to make the minimum payment.</p>
     
-    <h2>Data Dictionary</h2>
+    <h1>Data Dictionary</h1>
 <p>The target label is a binary variable: default payment next month (Yes = 1, No = 0). The data set has the following 23 variables as explanatory variables, together with an ID variable defining the cases:</p>
 <ul>
   <li>LIMIT_BAL: Amount of the given credit (NT dollar): it includes both the individual consumer credit and his/her family (supplementary) credit</li>
