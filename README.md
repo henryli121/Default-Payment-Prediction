@@ -1,5 +1,6 @@
 # Default-Payment-Prediction
-Developed a predictive model for whether an account will default next month, given the historical payment data
+Developed a predictive model for whether an account will default next month, given the historical payment data.
+<h3>The project report Final_Project.ipynb includes all the results and plots</h3>
 
 <!DOCTYPE html>
 <html>
